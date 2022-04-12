@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+deepspeech-0.9.3_ffmpeg.zip
+
 # User-specific files
 *.rsuser
 *.suo
